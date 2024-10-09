@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">22-year-old back-end developer, amateur designer and powerlifiting, boxing and bjj practitioner.<br><br>I like cybersecurity (and sometimes, math and logic). A lot.</p>
+<p align="left">22-year-old back-end developer, amateur designer and powerlifiting, boxing and bjj practitioner.<br><br>I like cybersecurity (and sometimes, math and logic).</p>
 
 ###
 
